@@ -20,7 +20,7 @@ jobs:
         with:
           project-name: 'Spring Data'
           column-name: 'Inbox'
-          project-location: 'spring-projects'
+          project-location: 'spring-project1111s'
           token: ${{ secrets.GH_ISSUES_TOKEN_SPRING_DATA }}
   Pull-Request:
     runs-on: ubuntu-latest
